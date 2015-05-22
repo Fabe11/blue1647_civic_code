@@ -1,0 +1,27 @@
+Create a folder names js-practice inside week-2
+
+Create index.html, style.css, script.js files inside
+
+Create basic HTML file structure
+
+Link the JS and CSS files to the HTML file
+
+Create a repo on GitHub
+git add .
+Add content of js-practice folder to git
+
+Push to GitHub
+How to create a random number:
+Math.floor((Math.random() *50) + 1);
+
+Guessing Game I
+- create random number for computer
+- take number from user, display message to user if number if lower or bigger than random no from computer
+- push to GitHub
+- review if/else
+
+Guessing Game II
+- take number from user, display message to user if number if lower or bigger than random no from computer UNTIL user guesses number
+- push to GitHub
+- review while
+

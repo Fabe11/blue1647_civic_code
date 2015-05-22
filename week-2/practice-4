@@ -1,0 +1,12 @@
+1. Link the HTML file to the CSS file
+
+2. Inside style.css create:
+- make the paragraph font Helvetica Neue or a basic sans serif font
+- make the background color of the div gray
+- change the color of the link to red
+- remove the underline from the link
+- change the color of the hovered link to green
+
+BONUS: center the div!
+
+7 min

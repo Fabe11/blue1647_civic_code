@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hello, Chicago!</title>
+		<link rel="stylesheet" type="text/css" href="practice-4-css.css">
+	</head>
+	<body>
+		<div class="container">
+			<h1>My Beloved Chicago</h1>
+			<p>Chicago was incorporated as a city in 1837, near a portage between the <a href="http://www.google.com">Great Lakes</a> and the Mississippi River watershed, and experienced rapid growth in </p>
+		</div>
+	</body>
+</html>
