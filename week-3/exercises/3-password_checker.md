@@ -7,6 +7,7 @@ clicks the "Submit" button, using jQuery, display a message about how secure the
 (if the passwords is longer than 8 charactes, it is secure enough).
 
 What you will need to research(meaning Google for):
+- how to create a HTML form
 - how to select a HTML element
 - how to gather data from a form once it is submitted
 - how to display a something on a HTML page using jQuery 
