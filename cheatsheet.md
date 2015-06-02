@@ -41,7 +41,7 @@ Will list all the files and folders in the current folder.
 
 ### Ionic Workflow
 
-```ionic start <folder_name>```
+```ionic start <folder_name> blank```
 
 Create a new Ionic app in a new folder that will also be the app name.
 
