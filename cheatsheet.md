@@ -30,3 +30,21 @@ Will change the directory to the one whose name you passed.
 
 ```ls```
 Will list all the files and folders in the current folder.
+
+### Ionic Workflow
+
+```ionic start <folder_name>```
+
+Create a new Ionic app in a new folder that will also be the app name.
+
+```cd <folder_name>```
+
+Navigate to that app's folder.
+
+```ionic platform add android``` or ```ionic platform add ios```
+
+Create platform that you wish to develop for (chose Android for Windows and iOS for Mac).
+
+```ionic build android```
+
+Build your app- it will now be viewable from a browser.
